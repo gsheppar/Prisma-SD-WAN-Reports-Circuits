@@ -4,15 +4,6 @@ Tools for querying and analyzing Prisma SD-WAN incidents, DI down events, path m
 
 ---
 
-## Scripts
-
-| Script | Purpose |
-|--------|---------|
-| `query.py` | Combined query tool — DI down alarms, interface down alarms, and path metrics |
-| `update_dhcp_relay.py` | Reads a CSV and updates DHCP relay IPs on matching LAN interfaces |
-
----
-
 ## Prerequisites
 
 - Python 3.10+
